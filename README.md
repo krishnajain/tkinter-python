@@ -6,7 +6,7 @@ Python when combined with Tkinter provides a fast and easy way to create GUI app
 Tkinter provides a powerful object-oriented interface to the Tk GUI toolkit.
 
 To install Tkinter run "pip install tkinter" in your command window.
-To check if the library is installed or not run "import tkinter" in pythob idle.
+To check if the library is installed or not run "import tkinter" in python idle.
 
 If "Traceback (most recent call last):
   File "<pyshell#0>", line 1, in <module>
